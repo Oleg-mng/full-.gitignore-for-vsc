@@ -9,6 +9,9 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.csproj
+
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -239,6 +242,7 @@ ClientBin/
 *.pfx
 *.publishsettings
 orleans.codegen.cs
+temp.csproj
 
 # Including strong name files can present a security risk
 # (https://github.com/github/gitignore/pull/2483#issue-259490424)
@@ -382,6 +386,7 @@ FodyWeavers.xsd
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+!.vscode/temp.csproj
 *.code-workspace
 
 # Local History for Visual Studio Code

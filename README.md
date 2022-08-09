@@ -1,1 +1,1 @@
-test file
+full .gitignore for VSC
